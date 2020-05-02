@@ -1,0 +1,134 @@
+.header{
+    background-color: royalblue;
+    color: white;
+    display: flex;
+    flex-direction: row; 
+    align-items: flex-end;
+    justify-content: flex-end;
+    box-shadow: 0px 2px 2px rgb(170, 167, 167);
+    padding: 20px;
+    word-spacing: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+.first-quote{
+    background-color:rgba(0, 0, 0, 0.942);
+    color: white;
+    padding: 20px;
+
+}
+.second-quote{
+    background-color: rgba(0, 0, 0, 0.842);
+    color: white;
+    padding: 20px;
+}
+.third-quote{
+    background-color: rgba(0, 0, 0, 0.742);
+    color: white;
+    padding: 20px;
+}
+.fourth-quote{
+    background-color: rgba(0, 0, 0, 0.642);
+    color: white;
+    padding: 20px;
+}
+.fifth-quote{
+    background-color: rgba(0, 0, 0, 0.542);
+    color: white;
+    padding: 20px;
+}
+.sixth-quote{
+    background-color: rgba(0, 0, 0, 0.442);
+    color: white;
+    padding: 20px;
+}
+.seventh-quote{
+    background-color: rgba(255, 166, 0, 0.942);
+    color: white;
+    padding: 20px;
+}
+.eighth-quote{
+    background-color: rgba(255, 166, 0, 0.842);
+    color: white;
+    padding: 20px;
+}
+.nineth-quote{
+    background-color: rgba(255, 166, 0, 0.742);
+    color: white;
+    padding: 20px;
+}
+.tenth-quote{
+    background-color: rgba(255, 166, 0, 0.642);
+    color: white;
+    padding: 20px;
+}
+.eleventh-quote{
+    background-color: rgba(255, 166, 0, 0.542);
+    color: white;
+    padding: 20px;
+}
+.twelfth-quote{
+    background-color: rgba(255, 166, 0, 0.442);
+    color: white;
+    padding: 20px;
+}
+.thirteenth-quote{
+    background-color: rgba(255, 166, 0, 0.342);
+    color: white;
+    padding: 20px;
+}
+.fourteenth-quote{
+    background-color: rgba(255, 166, 0, 0.242);
+    color: white;
+    padding: 20px;
+}
+.fifteenth-quote{
+    background-color: rgba(247, 27, 27, 0.925);
+    color: white;
+    padding: 20px;
+} 
+.sixteenth-quote{
+    background-color: rgba(247, 27, 27, 0.825);
+    color: white;
+    padding: 20px; 
+}
+.seventeenth-quote{
+    background-color: rgba(247, 27, 27, 0.725);
+    color: white;
+    padding: 20px;
+}
+.eighteenth-quote{
+    background-color: rgba(247, 27, 27, 0.625);
+    color: white;
+    padding: 20px;
+}
+.nineteenth-quote{
+    background-color: rgba(247, 27, 27, 0.525);
+    color: white;
+    padding: 20px;
+
+}
+.twentieth-quote{
+    background-color: rgba(247, 27, 27, 0.425);
+    color: white;
+    padding: 20px;
+}
+.twenty-first-quote{
+    background-color: rgba(247, 27, 27, 0.325);
+    color: white;
+    padding: 20px;
+}
+footer {
+    background-color: gray;
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 2px rgb(170, 167, 167);
+    width: 100%;
+    height: 150px;
+
+    
+}
+
